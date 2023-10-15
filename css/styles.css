@@ -1,0 +1,25 @@
+
+.custColor, .randColor {
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.custColor:hover, .randColor:hover {
+    background-color: #0056b3;
+}
+
+
+#customNumber {
+    padding: 5px;
+    width: 100px;
+    margin-right: 10px;
+}
+
+#imageSelect {
+    padding: 5px;
+    width: 150px;
+}
